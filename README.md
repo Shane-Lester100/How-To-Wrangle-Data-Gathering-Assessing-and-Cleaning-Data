@@ -6,7 +6,7 @@ Data gathering includes collecting data from a variety of sources into a program
 
 Data assessment includes writing TODO notes where you categorize and explain issues in your data. These issues can be quality or tidiness issues. Quality issues, otherwise known as dirty data, involve inaccuracies like missing data or incorrect values. Tidiness issues, called messy data, are structural and can slow down analysis.  
 
-Data cleaning is the process of taking those TODO notes and implementing them in code. From the original dataset, you first creates a copy and writes code to fix the issue. Afterward, you code a unit test underneath to assure there are no regressions.
+Data cleaning is the process of taking those TODO notes and implementing them in code. From the original dataset, you first create a copy and write code to fix the issue. Afterward, you code a unit test underneath to assure there are no regressions.
 
 The Jupyter Notebooks below contain the notes on the three step process:
 
