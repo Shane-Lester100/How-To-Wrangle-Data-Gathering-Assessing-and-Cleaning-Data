@@ -1,3 +1,5 @@
+# How To Wrangle Data: Gathering, Assessing, and Cleaning Data
+
 The four steps in the data analysis process are asking questions, wrangling data, analyzing data, and drawing conclusions. Data wrangling is the step between asking questions and analyzing data. The gathering, assessment, and cleaning of data support the rest of the analysis process.
 
 Data gathering includes collecting data from a variety of sources into a programming environment. The four most common methods to gather data are extraction from text files, SQL queries, APIs, and web scraping methods.
@@ -12,5 +14,3 @@ The Jupyter Notebooks below contain the notes on the three step process:
 - [Gathering Data](https://github.com/Shane-Lester100/How-To-Wrangle-Data-Gathering-Assessing-and-Cleaning-Data/blob/master/Gathering%20Data.ipynb)
 - [Assessing Data](https://github.com/Shane-Lester100/How-To-Wrangle-Data-Gathering-Assessing-and-Cleaning-Data/blob/master/Assessing%20Data.ipynb)
 - [Cleaning Data](https://github.com/Shane-Lester100/How-To-Wrangle-Data-Gathering-Assessing-and-Cleaning-Data/blob/master/Step%203%20Cleaning.ipynb)
-
-Source: All of the notes are sourced from the Udacity data analysis bootcamp
